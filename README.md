@@ -24,29 +24,29 @@
 ☕ Java | JavaScript | HTML | CSS | SQL  
 
 **Frameworks & Libraries:**  
-🌱 Spring Boot | React.js | Hibernate | JPA | Bootstrap  
+🌱 Spring Boot | Hibernate | JPA | Bootstrap  
 
 **Databases:**  
-🧠 MySQL | MongoDB  
+🧠 MySQL  
 
 **DevOps & Tools:**  
 🐳 Docker | Jenkins | Git | GitHub | VS Code | IntelliJ IDEA  
 
 **Cloud & Deployment:**  
-☁️ AWS | Render | Netlify  
+☁️ AWS | Render   
 
 ---
 
 ### 📂 Featured Projects
 
-- 🏦 **[NeoBanker – Mini Core Banking System](https://github.com/shreedharS/NeoBanker)**  
+- 🏦 **[NeoBanker – Mini Core Banking System](https://github.com/shreedharS/neo-banker-thymeleaf)**  
   Spring Boot + MySQL based banking app for account operations and transactions.
 
-- 🌾 **[Multi-Crop Multi-Disease Detection](https://github.com/shreedharS/Crop-Disease-Detection)**  
+- 🌾 **[Vanaspati(Multi-Crop Multi-Disease Detection)](https://github.com/shreedharS/Vanaspati)**  
   AI-powered image detection model for classifying crop diseases using CNN.
 
-- 📚 **[Library Management System](https://github.com/shreedharS/Library-Management-System)**  
-  Web app built using Java, Spring Boot, and MySQL for managing book records.
+- 📚 **[Library Management System](https://github.com/shreedharS/library-management-system-)**  
+  Web app built using HTML, CSS, PHP, and MySQL for managing book records.
 
 ---
 
