@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi, I'm Shreedhar S</h1>
-<h3 align="center">💻 Java Full Stack Developer | Spring Boot | React | DevOps Enthusiast</h3>
+<h3 align="center">💻 Java Full Stack Developer | Spring Boot | DevOps Enthusiast</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects and Java-based Web Applications**
 - 🤔 I’m looking for help with **Cloud Deployments (AWS, Azure)**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, and Frontend Integration**
-- 📫 How to reach me: **[shreedhars.dev@gmail.com](mailto:shreedhars.dev@gmail.com)**
+- 📫 How to reach me: **[shreedharsk14@gmail.com](mailto:shreedharsk14@gmail.com)**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building scalable backend systems and experimenting with new tech stacks!
 
